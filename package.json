@@ -1,6 +1,9 @@
 {
   "name": "note-hw",
   "version": "1.0.0",
+  "engines": {
+    "node": "18.17.0"
+  },
   "description": "",
   "main": "server.js",
   "scripts": {
