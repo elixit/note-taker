@@ -13,6 +13,6 @@ app.use(express.json());
 app.use('/api', getApi);
 app.use('/', getHtml);
 
-app.listen(PORT, () => {
+app.listen(PORT  || 3001, () => {
     console.log(`listening on localhost:${PORT}`);
   });
