@@ -45,6 +45,7 @@
 ## Screenshot 
 
 
+![8964040A-3BB0-4E42-BD69-FA389106F7F9](https://github.com/elixit/note-taker/assets/63372291/a24cd49f-4468-470b-a57e-805c415969ea)
 
 
 ## License
