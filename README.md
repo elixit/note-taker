@@ -3,7 +3,7 @@
 
 ## Description
 
-- The goal of this project is to connect the already made front end and create the back-end. 
+- The goal of this project is to connect the already made front to the back (the back end must be created). I had to figure out a way for each note to generate a unique id. 
 
 ## Table of contents
 
@@ -21,26 +21,31 @@
 
 (https://note-takerhw-385a349bc411.herokuapp.com/)
 
-- website functionality
-
-()
 
 
 ## Usage
- - imported required packages: inquirer, inquirer-maxlength-input-prompt, fs, ./shapes
- - logo linked to svg (string added with input and shape color/shape choice)
- - Jest used for application testing
+ - imported required packages: path, express, uuid
+ - uuid appended to user notes.
+ - middleware set up for getting API and HTML.
+ - backend created so user input is transffered to JSON database.
+ - server.js created to process enviornment on heroku.
+ - urlencoded processes the string into a URL.
+ - static was used to serve "public" files on to main page.
 
 ## Installation 
 - index.js
-- shapes.js
-- svg
-- jest
+- notes.js
+- server.js
+- json
+- express
+- static
+- urlencoded
+
 
 ## Screenshot 
 
 
-![313CE8EB-3C55-494B-998A-E03688B7D9EA](https://github.com/elixit/logo-hw/assets/63372291/d58dbab0-89e7-4dc3-8833-2561c749c05c)
+
 
 ## License
 
