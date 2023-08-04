@@ -3,7 +3,7 @@
 
 ## Description
 
-- The goal of this project is to connect the already made front to the back (the back end must be created). I had to figure out a way for each note to generate a unique id. 
+- The goal of this project is to connect the already made front to the back (the back end must be created). Each note that the user inputs, has a unique id. The notes will be saved to the JSON file. Routes were created to get the functionality of the HTML pages provided with the APIs. The server.js was created to host the page to heroku.
 
 ## Table of contents
 
