@@ -27,7 +27,7 @@
  - imported required packages: path, express, uuid
  - uuid appended to user notes.
  - middleware set up for getting API and HTML.
- - backend created so user input is transffered to JSON database.
+ - backend created so user input is transferred to JSON database.
  - server.js created to process enviornment on heroku.
  - urlencoded processes the string into a URL.
  - static was used to serve "public" files on to main page.
